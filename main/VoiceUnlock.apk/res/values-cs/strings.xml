@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="voice_command_launch_app_title">Spustit aplikaci</string>
+<string name="voice_unlock_ok_label">OK</string>
+<string name="voice_unlock_cancel_label">Zrušit</string>
+<string name="voice_unlock_continue_label">Pokračovat</string>
+<string name="voice_command_record_description_unlock_screen">Odemknout obrazovku</string>
+<string name="stop_playing_title">Zastavit přehrávání média</string>
+</resources>

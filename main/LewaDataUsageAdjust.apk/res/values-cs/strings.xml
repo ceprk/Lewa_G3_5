@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="alert_network_error">Chyba sítě</string>
+<string name="phone_closed">Telefon není povolen. Povolte ho prosím a zkuste to znovu.</string>
+<string name="label_province">Provincie</string>
+<string name="label_city">Město</string>
+<string name="label_carrier">Operátor</string>
+<string name="label_brand">Značka</string>
+<string name="label_info">Zkontrolujte prosím informace operátora</string>
+<string name="label_data_left">Zbývá</string>
+<string name="label_data_used">Využito</string>
+</resources>
